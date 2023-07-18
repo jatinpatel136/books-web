@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "OfMV/zzpLQ30Gcai1Q2opytnpy3i0OZMjICV9epWJos=",
+  "Hash": "Uu6ckh8tS6zTSyqZRjUM0XX/gCuvR9kt9+tDF5S+/j8=",
   "Source": "BulkyBookWeb",
   "BasePath": "_content/BulkyBookWeb",
   "Mode": "Default",
@@ -100,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Documents\\Project\\C# practice\\BulkyBookWeb\\BulkyBookWeb\\wwwroot\\js\\product.js",
+      "SourceId": "BulkyBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Documents\\Project\\C# practice\\BulkyBookWeb\\BulkyBookWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyBookWeb",
+      "RelativePath": "js/product.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\product.js"
     },
     {
       "Identity": "C:\\Users\\HP\\Documents\\Project\\C# practice\\BulkyBookWeb\\BulkyBookWeb\\wwwroot\\js\\site.js",

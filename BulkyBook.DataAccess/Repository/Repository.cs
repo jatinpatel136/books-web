@@ -10,43 +10,60 @@ using System.Threading.Tasks;
 
 namespace BulkyBook.DataAccess.Repository
 {
-    public class Repository<T> : IRepository<T> where T : class
-    {
-        private readonly ApplicationDbContext _db;
-        internal DbSet<T> dbset;
+	public class Repository<T> : IRepository<T> where T : class
+	{
+		private readonly ApplicationDbContext _db;
+		internal DbSet<T> dbset;
 
-        public Repository(ApplicationDbContext db)
-        {
-            _db = db;
-            this.dbset = _db.Set<T>();
-        }
+		public Repository(ApplicationDbContext db)
+		{
+			_db = db;
+			//_db.Products.Include(p => p.Category).Include(p => p.CoverType)
+			this.dbset = _db.Set<T>();
+		}
 
-        public void Add(T entity)
-        {
-            dbset.Add(entity);
-        }
+		public void Add(T entity)
+		{
+			this.dbset.Add(entity);
+		}
 
-        public IEnumerable<T> GetAll()
-        {
-            IQueryable<T> query = dbset;
-            return query.ToList();
-        }
 
-        public T GetFirstOrDefault(Expression<Func<T, bool>> filter)
-        {
-            IQueryable<T> query = dbset;
-            query = query.Where(filter);
-            return query.FirstOrDefault();
-        }
+		//includeProperties - "Categories, CoverType"
+		public IEnumerable<T> GetAll(string? includeProperties = null)
+		{
+			IQueryable<T> query = this.dbset;
+			if(includeProperties != null)
+			{
+				foreach (var includeProperty in includeProperties.Split(new char[] {','}, StringSplitOptions.RemoveEmptyEntries))
+				{
+					query = query.Include(includeProperty);
+				}
+			}
+			return query.ToList();
+		}
 
-        public void Remove(T entity)
-        {
-            dbset.Remove(entity);
-        }
+		public T GetFirstOrDefault(Expression<Func<T, bool>> filter, string? includeProperties = null)
+		{
+			IQueryable<T> query = this.dbset;
+			if (includeProperties != null)
+			{
+				foreach (var includeProperty in includeProperties.Split(new char[] { ',' }, StringSplitOptions.RemoveEmptyEntries))
+				{
+					query = query.Include(includeProperty);
+				}
+			}
+			query = query.Where(filter);
+			return query.FirstOrDefault();
+		}
 
-        public void RemoveRange(IEnumerable<T> entity)
-        {
-            dbset.RemoveRange(entity);
-        }
-    }
+		public void Remove(T entity)
+		{
+			this.dbset.Remove(entity);
+		}
+
+		public void RemoveRange(IEnumerable<T> entity)
+		{
+			this.dbset.RemoveRange(entity);
+		}
+	}
 }
