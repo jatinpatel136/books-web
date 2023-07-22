@@ -22,8 +22,6 @@ C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\ne
 C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
 C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
 C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
-C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
-C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
 C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
 C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
@@ -107,14 +105,11 @@ C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\ne
 C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
 C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
 C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
-C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
 C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
 C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
 C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
 C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
 C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
-C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
-C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
 C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
 C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
@@ -160,7 +155,6 @@ C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\ne
 C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\refs\System.Data.dll
 C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
 C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
-C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
 C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
 C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
 C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
@@ -543,3 +537,14 @@ C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\obj\Debug\ne
 C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\obj\Debug\net6.0\ref\BulkyBookWeb.dll
 C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
 C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.Utility.dll
+C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.Utility.pdb

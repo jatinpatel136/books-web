@@ -17,6 +17,30 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\C# practice\\BulkyBookWeb\\BulkyBookWeb\\wwwroot\\images\\products\\12f98c36-6831-49d7-bc0b-a5db554603d9.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\12f98c36-6831-49d7-bc0b-a5db554603d9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\C# practice\\BulkyBookWeb\\BulkyBookWeb\\wwwroot\\images\\products\\2b6cb0c3-0dda-4441-a6ef-793a4e5cb2fd.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\2b6cb0c3-0dda-4441-a6ef-793a4e5cb2fd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\C# practice\\BulkyBookWeb\\BulkyBookWeb\\wwwroot\\images\\products\\59e87820-0961-4557-82f0-72b304989f41.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\59e87820-0961-4557-82f0-72b304989f41.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\C# practice\\BulkyBookWeb\\BulkyBookWeb\\wwwroot\\images\\products\\9bd5fa91-928b-4dea-8ff3-45a61714268f.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\9bd5fa91-928b-4dea-8ff3-45a61714268f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\C# practice\\BulkyBookWeb\\BulkyBookWeb\\wwwroot\\images\\products\\c42028d3-1ef5-4134-9128-5dfa4127f552.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\c42028d3-1ef5-4134-9128-5dfa4127f552.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\C# practice\\BulkyBookWeb\\BulkyBookWeb\\wwwroot\\js\\company.js",
+      "PackagePath": "staticwebassets\\js\\company.js"
+    },
+    {
       "Id": "C:\\Users\\HP\\Documents\\Project\\C# practice\\BulkyBookWeb\\BulkyBookWeb\\wwwroot\\js\\product.js",
       "PackagePath": "staticwebassets\\js\\product.js"
     },
