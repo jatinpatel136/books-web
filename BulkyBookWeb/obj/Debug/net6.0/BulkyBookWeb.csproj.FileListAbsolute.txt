@@ -548,3 +548,4 @@ C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\ne
 C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
 C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.Utility.dll
 C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.Utility.pdb
+C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\Stripe.net.dll

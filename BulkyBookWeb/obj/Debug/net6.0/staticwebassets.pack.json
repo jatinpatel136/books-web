@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\HP\\Documents\\Project\\C# practice\\BulkyBookWeb\\BulkyBookWeb\\wwwroot\\images\\lawn_leaf.jpg",
+      "PackagePath": "staticwebassets\\images\\lawn_leaf.jpg"
+    },
+    {
       "Id": "C:\\Users\\HP\\Documents\\Project\\C# practice\\BulkyBookWeb\\BulkyBookWeb\\wwwroot\\images\\products\\12f98c36-6831-49d7-bc0b-a5db554603d9.jpg",
       "PackagePath": "staticwebassets\\images\\products\\12f98c36-6831-49d7-bc0b-a5db554603d9.jpg"
     },
