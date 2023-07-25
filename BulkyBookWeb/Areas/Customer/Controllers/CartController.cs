@@ -194,6 +194,7 @@ namespace BulkyBookWeb.Areas.Customer.Controllers
 				// check the stripe status
 				if (session.PaymentStatus.ToLower() == "paid")
 				{
+					_unitOfWork.OrderHeader.UpdateStripePaymentId(id, orderHeader.SessionId!, session.PaymentIntentId);
 					_unitOfWork.OrderHeader.UpdateStatus(id, SD.STATUS_APPROVED, SD.PAYMENT_STATUS_APPROVED);
 
 					_unitOfWork.Save();
