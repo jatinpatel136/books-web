@@ -167,7 +167,6 @@ C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\ne
 C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\refs\System.Drawing.dll
 C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
 C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
-C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
 C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
 C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\refs\System.Globalization.dll
 C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
@@ -256,7 +255,6 @@ C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\ne
 C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\refs\System.Security.SecureString.dll
 C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
 C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\refs\System.ServiceProcess.dll
-C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
 C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\refs\System.Text.Encoding.dll
 C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
 C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
@@ -549,3 +547,11 @@ C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\ne
 C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.Utility.dll
 C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.Utility.pdb
 C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\Stripe.net.dll
+C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\MailKit.dll
+C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\MimeKit.dll
+C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\HP\Documents\Project\C# practice\BulkyBookWeb\BulkyBookWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll

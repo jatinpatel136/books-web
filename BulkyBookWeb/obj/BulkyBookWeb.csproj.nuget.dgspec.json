@@ -30,6 +30,9 @@
             "projectReferences": {
               "C:\\Users\\HP\\Documents\\Project\\C# practice\\BulkyBookWeb\\BulkyBooks.Models\\BulkyBook.Models.csproj": {
                 "projectPath": "C:\\Users\\HP\\Documents\\Project\\C# practice\\BulkyBookWeb\\BulkyBooks.Models\\BulkyBook.Models.csproj"
+              },
+              "C:\\Users\\HP\\Documents\\Project\\C# practice\\BulkyBookWeb\\BulkyBooks.Utility\\BulkyBook.Utility.csproj": {
+                "projectPath": "C:\\Users\\HP\\Documents\\Project\\C# practice\\BulkyBookWeb\\BulkyBooks.Utility\\BulkyBook.Utility.csproj"
               }
             }
           }
@@ -188,9 +191,17 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
               "version": "[6.0.20, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[4.1.0, )"
             }
           },
           "imports": [
